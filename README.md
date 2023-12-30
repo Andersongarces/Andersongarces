@@ -2,8 +2,6 @@
 
 👾 Soy un apasionado analista de datos.
 
-👾 Educador con una fascinación innata por desentrañar la riqueza de los datos.
-
 👾 Tengo experiencia como docente en matemáticas, informática y emprendimiento.
 
 👾 He desempeñado el papel de auxiliar administrativo en ESPAE Escuela de Negocios de ESPOL, donde contribuí activamente a investigaciones científicas. 
