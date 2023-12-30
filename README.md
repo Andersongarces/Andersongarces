@@ -1,3 +1,5 @@
+![Texto alternativo](https://raw.githubusercontent.com/Andersongarces/image_portadas/main/image_portadas/portada_github.png) 
+
 Soy un apasionado analista de datos y educador con una fascinación innata por desentrañar la riqueza de los datos.
 Además de mi experiencia como docente en matemáticas, informática y emprendimiento, he desempeñado el papel de auxiliar administrativo en ESPAE Escuela de Negocios de ESPOL, donde contribuí activamente a investigaciones científicas. 
 
