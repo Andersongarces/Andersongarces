@@ -4,7 +4,7 @@
 
 👾 Tengo experiencia como docente en matemáticas, informática y emprendimiento.
 
-👾 He desempeñado el papel de auxiliar administrativo en ESPAE Escuela de Negocios de ESPOL, donde contribuí activamente a investigaciones científicas. 
+👾 He desempeñado el papel de analista de datos en ESPAE Escuela de Negocios de ESPOL, donde contribuí activamente a investigaciones científicas. 
 
 Mi perfil en GitHub exhibe proyectos innovadores que destacan mi destreza en Python para el análisis de datos.
 Mi canal de YouTube solidifica mi entrega en el conocimeinto compartido en Excel, Python, PowerBI, GeoGebra y otras tecnologías. 
